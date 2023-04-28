@@ -1,0 +1,97 @@
+
+body{
+margin-top : 10px;
+background-color: #001a33;
+}
+
+table#table1 {
+	background: #001a33;
+	color: #e0e0e0;
+ 	border: #FFFF00 5px solid;
+  	width: 380px;
+  	height: 790px;
+ }
+table#table1 thead{
+	height: 48px;
+	font-size: 20px;
+ }
+table#table1 tr {
+	text-align: center;
+ }
+table#table1 td {
+	border-top: 2px solid  #193366;
+	border-bottom: 2px solid #193366;
+	border-left: 2px solid  #193366;
+	border-right: 2px solid #193366;
+	font-family: Cambria;
+	font-size: 20px;
+}
+
+
+table#table2 {
+	background: #001a33;
+	color: #333333;
+ 	border: #FFFF00 5px solid;
+  	width: 738.1px;
+  	height: 790px;
+ }
+table#table2 td {
+	border-top: 1px solid #e0e0e0;
+	border-bottom: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+	font-size: 11px;
+}
+
+
+ table#table3 {
+	background: #001a33;
+	color: #333333;
+ 	border: #FFFF00 5px solid;
+  	height: 790px;
+  	width: 673px;
+ }
+table#table3 tr { 
+	text-align: center;
+ }
+table#table3 th {
+	font-family: cambria;
+	border-top: 5px solid #001a33;
+	border-left: 7px solid #001a33;
+	border-right: 7px solid #001a33;
+	font-size: 20px;
+	width: 150px;
+	background-color: #33FF33;
+ }
+table#table3 td {
+	font-family:Cambria;
+	font-size: 32px;
+	width: 120px;
+	color:aqua;
+ }
+
+
+table#table4 {
+	width: 1791.1px;
+	background: #001a33;
+	color: #e0e0e0;
+ 	border-bottom: #FFFF00 5px solid;
+ 	border-left: #FFFF00 5px solid;
+ 	border-right: #FFFF00 5px solid;
+ }
+
+ table#table4 th{
+ 	font-size: 24px;
+ 	height: 45px;
+ 	border-bottom: 2px solid #193366;
+ }
+
+
+ table#table4 td{
+ 	font-family: Cambria;
+ 	border-bottom: 2px solid #193366;
+ 	font-size: 20px;
+	height: 40px;
+	width: 360px;
+
+ }
